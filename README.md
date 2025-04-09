@@ -63,4 +63,5 @@
 ---
 
 ## 📬 Контакты  
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id859215299)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/INFORGG)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INFORGi)  📧 [shulgin.styopa@gmail.com](mailto:shulgin.styopa@gmail.com)  
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/id859215299)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/INFORGG)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INFORGi)  
+📧 [shulgin.styopa@gmail.com](mailto:shulgin.styopa@gmail.com)  
